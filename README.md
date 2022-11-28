@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/jiri-lenner-78a52520a/" > 
   <img alt="Jiri's LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=linkedin&logoColor=white" >
 </a>
-<a href="" > 
+<a href="https://discord.gg/FHaDxJ8T" > 
   <img alt="Jiri's Discord" src="https://img.shields.io/badge/-DISCORD-5865F2?logo=discord&logoColor=white" >
 </a>
 <a href="https://twitter.com/LennerJiri" > 
