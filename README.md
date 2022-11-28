@@ -12,10 +12,10 @@
 <a href="https://twitter.com/LennerJiri" > 
   <img alt="Jiri's Twitter" src="https://img.shields.io/badge/-TWITTER-1DA1F2?logo=twitter&logoColor=white" >
 </a>
-<a href="" > 
+<a href="https://dribbble.com/lennerjiri" > 
   <img alt="Jiri's Dribbble" src="https://img.shields.io/badge/-DRIBBBLE-EA4C89?logo=dribbble&logoColor=white" >
 </a>
-<a href="" >
+<a href="https://www.buymeacoffee.com/UT3HtQoJO7" >
   <img alt="Jiri's Buy Me a Coffee" src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffe-FFDD00?logo=buy-me-a-coffee&logoColor=black" >
 </a>
 
