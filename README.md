@@ -3,6 +3,9 @@
 <a href="https://lennerjiri.com" > 
   <img alt="Jiri's Website" src="https://img.shields.io/badge/-PORTFOLIO-white?logo=marketo&logoColor=black" >
 </a>
+<a href="https://t.me/lennerjiri" >
+  <img alt="Jiri's Telegram" src="https://img.shields.io/badge/-TELEGRAM-26A5E4?logo=telegram&logoColor=white" >
+</a>
 <a href="https://www.linkedin.com/in/jiri-lenner-78a52520a/" > 
   <img alt="Jiri's LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=linkedin&logoColor=white" >
 </a>
